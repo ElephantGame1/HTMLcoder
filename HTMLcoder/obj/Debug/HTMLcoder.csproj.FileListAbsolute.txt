@@ -1,0 +1,10 @@
+D:\RedactorIncode\HTMLcoder\bin\Debug\HTMLcoder.exe.config
+D:\RedactorIncode\HTMLcoder\bin\Debug\HTMLcoder.exe
+D:\RedactorIncode\HTMLcoder\bin\Debug\HTMLcoder.pdb
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.csprojAssemblyReference.cache
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.Form1.resources
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.Properties.Resources.resources
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.csproj.GenerateResource.cache
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.csproj.CoreCompileInputs.cache
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.exe
+D:\RedactorIncode\HTMLcoder\obj\Debug\HTMLcoder.pdb
